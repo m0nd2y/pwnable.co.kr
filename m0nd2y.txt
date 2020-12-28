@@ -1,0 +1,28 @@
+#docker install
+
+docker build -t [appname] .
+cd [sharing_directory]
+docker run -it --volume="$PWD:/home/ctf" [image_id]
+docker exec -it [container_id] /bin/bash
+
+
+
+#install oh_my_zsh
+
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" 
+vi ~/.zshrc
+    --> ZSH_THEME="agnoster"
+
+
+
+#install_basic_tools
+
+apt-get install net-tools
+apt-get install wget
+
+
+
+
+# install gef
+
+sh -c "$(wget http://gef.blah.cat/sh -O -)"
