@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Dongjun Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Currently pursuing a Master’s degree at KAIST (Korea Advanced Institute of Science and Technology), specializing in cybersecurity and system exploitation."
+  bio              : #"Currently pursuing a Master’s degree at KAIST (Korea Advanced Institute of Science and Technology), specializing in cybersecurity and system exploitation."
   location         : "South Korea"
   employer         : "KAIST"
   uri              : # "https://pwnable.co.kr"
