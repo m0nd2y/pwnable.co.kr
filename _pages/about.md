@@ -11,16 +11,20 @@ I am currently pursuing a Master’s degree at the [Korea Advanced Institute of 
 
 EDUCATION
 ------
-- MS. Electrical Engineering in [<b>KAIST</b>](https://www.kaist.ac.kr/en/) (2025 ~ )
-- BS. Cyber Defense in [<b>Korea University</b>](https://www.korea.edu/sites/en/index.do) (2021 ~ 2025)
+- MS. Electrical Engineering in [KAIST](https://www.kaist.ac.kr/en/) (2025 ~ )
+- BS. Cyber Defense in [Korea University](https://www.korea.edu/sites/en/index.do) (2021 ~ 2025)
 
 EXPERIENCE
 ------
-1. [Hacking Lab](https://kaist-hacking.github.io/), KAIST (Advisor : Professor Insu Yun)
-2. [Hardware Security Lab](https://sites.google.com/view/hwseclab), Korea University (Advisor : Professor Junghee Lee)
-3. [Digital Forensic Research Center](https://dfrc.korea.ac.kr/), Korea University (Advisor : Professor Sangjin Lee)
+- [Hacking Lab](https://kaist-hacking.github.io/), KAIST (PI : Professor Insu Yun) (2025 ~)
+- [Hardware Security Lab](https://sites.google.com/view/hwseclab), Korea University (PI : Professor Junghee Lee) (2023 ~ 2025)
+- [Digital Forensic Research Center](https://dfrc.korea.ac.kr/), Korea University (PI : Professor Sangjin Lee) (2021)
 
+PUBLICATION
+------
+- Beomjoon Kim, <b>Dongjun Lee</b>, Junghee Lee, and Wonjun Lee, "[Snapshot Cherry-Picking Attack in CEX Proof of Reserves and Its Mitigation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10979308)" to appear in IEEE Access
+- Yun-Je Shin, <b>Dongjun Lee</b>, I-Sac Seo, Byeoung-Chan Chi, Jeong-Min Oh, Seoung-Jae Hwang, Jin-Myeong Park, Joo-Bon Cho, Si-Hyeong Jeong, CISW-W 2023, “Hardware security vulnerabilities in small IoT trackers: APProtect bypass and fault injection”
 
 For more info
 ------
-For additional details about my research experience, academic background, and security-related projects, please refer to the CV below. It includes a comprehensive overview of my technical work, collaborations, and ongoing interests in the field of cybersecurity.
+For additional details about my research experience, academic background, and security-related projects, please refer to the [CV](https://pwnable.co.kr/cv.pdf) below. It includes a comprehensive overview of my technical work, collaborations, and ongoing interests in the field of cybersecurity.
